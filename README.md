@@ -1,1 +1,1 @@
-My Submissions for AdventOfCOde 2022
+My Submissions for AdventOfCode 2022
