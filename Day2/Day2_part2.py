@@ -1,6 +1,6 @@
-# Day2.py
-# AdventOfCode 2022
+# Day2_part2.py
 # Lance Pettay
+# AdventOfCode2022
 
 translator = {
     'A': 'Rock',
