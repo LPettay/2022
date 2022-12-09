@@ -1,4 +1,4 @@
-# Day2.py
+# Day2_part1.py
 # Lance Pettay
 # AdventOfCode2022
 
